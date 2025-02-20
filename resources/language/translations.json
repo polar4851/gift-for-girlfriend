@@ -1,16 +1,16 @@
 {
   "globals": {
-    "name": "DANIELLE LOPES"
+    "name": "LIRIELLY"
   },
   "pt-br": {
     "index": {
-      "title": "VOCÊ ME AMA?",
+      "title": "ACEITAR IR EM UM DATE COMIGO?",
       "btnYes": "SIM",
       "btnNo": "NÃO",
-      "rejectMessage": "SE NÃO ME AMA APENAS ME MAMA"
+      "rejectMessage": "ME MAMA ENTÃO"
     },
     "presente": {
-      "title": "UMA FLOR PARA OUTRA FLOR, PARABÉNS MEU AMOR, EU TE AMO!"
+      "title": "UMA FLOR PARA OUTRA FLOR, OBRIGADO POR ACEITAR, MINHA PRINCESA!!"
     },
     "errors": {
       "loadTranslations": "Erro ao carregar o arquivo de traduções"
